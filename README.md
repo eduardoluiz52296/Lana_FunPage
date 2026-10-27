@@ -17,3 +17,4 @@ Acesse http://localhost (só o Nginx expõe porta; MySQL fica numa rede interna)
 `POST /api/auth/login` · `POST /api/users` · `GET /api/users/me` · `PUT /api/users/:id`
 `/api/{albums,songs,photos,posts}` (GET paginado `?page=&limit=&q=`, GET/:id, POST, PUT/:id, DELETE/:id) · `GET /api/songs/:id/download`
 # Lana_FunPage
+# Lana_FunPage
